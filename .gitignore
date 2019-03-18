@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.db
+node_modules/
+*-lock.json
+migrations/

@@ -1,0 +1,2 @@
+class BadDateRange(Exception):
+    pass

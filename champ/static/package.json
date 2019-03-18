@@ -1,0 +1,23 @@
+{
+  "name": "Champ",
+  "dependencies": {
+    "react": "16.8.0",
+    "react-dom": "16.8.3",
+    "react-router-dom": "4.4.0",
+    "react-datepicker": "2.2.0",
+    "moment": "2.24.0"
+  },
+  "devDependencies": {
+    "webpack": "^2.0",
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "css-loader": "^2.0",
+    "style-loader": "0.23.1",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  }
+}

@@ -2,7 +2,7 @@ import os
 
 ALLOWED_HOSTS = [ "*" ]
 DEBUG = True
-SECRET_KEY = 'nzmfwju@8j*ck19%c*o=*e!7v1@27=i4&cf6ib$m(%z%*bdlx^'
+SECRET_KEY = ''
 ROOT_URLCONF = 'champ.urls'
 STATIC_URL = "/static/"
 
